@@ -1,0 +1,20 @@
+plugin.tx_bwrkcookie {
+    view {
+        partialRootPaths {
+            0 = {$plugin.tx_bwrkcookie.view.partialRootPath}
+        }
+        templateRootPaths {
+            0 = {$plugin.tx_bwrkcookie.view.templateRootPath}
+        }
+        layoutRootPaths {
+            0 = {$plugin.tx_bwrkcookie.view.layoutRootPath}
+        }
+    }
+
+    render = USER_INT
+    render {
+        userFunc = TYPO3\CMS\Extbase\Core\Bootstrap->run
+        extensionName = BwrkCookie
+        pluginName = Pi1
+    }
+}

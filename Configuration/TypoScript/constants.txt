@@ -1,0 +1,7 @@
+plugin.tx_bwrkcookie {
+    view {
+        partialRootPath = EXT:bwrk_cookie/Resources/Private/Partials/
+        templateRootPath = EXT:bwrk_cookie/Resources/Private/Templates/
+        layoutRootPath = EXT:bwrk_cookie/Resources/Private/Layouts/
+    }
+}
