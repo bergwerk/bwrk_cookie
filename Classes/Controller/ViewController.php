@@ -6,10 +6,10 @@ use TYPO3\CMS\Extbase\Mvc\Controller\ActionController;
  * Class CookieController
  * @package BERGWERK\BwrkCookie\Controller
  */
-class CookieController extends ActionController
+class ViewController extends ActionController
 {
-    public function noticeAction()
+    public function indexAction()
     {
-
+        $this->view->assign('settings', $this->settings);
     }
 }
