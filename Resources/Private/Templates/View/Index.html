@@ -1,6 +1,7 @@
 <f:layout name="Default"/>
-
 <f:section name="Content">
-    <p><f:translate key="text" />
-    </p>
+    <p><f:translate key="text" /> <f:link.page pageUid="{settings.policyPageUid}" target="{settings.policyLinkTarget}"><f:translate key="text_link" /></f:link.page></p>
+    <form action="#" method="post">
+        <input type="submit" name="bwrk_cookie_submit" value="{f:translate(key: 'text_button')}" />
+    </form>
 </f:section>
