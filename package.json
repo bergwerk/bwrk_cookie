@@ -1,10 +1,10 @@
 {
-  "name": "bwrk-markermap",
+  "name": "bwrk-cookie",
   "version": "1.0.0",
-  "description": "src-kit is a frontend devkit",
+  "description": "cookie notice extension",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marvinhuebner/src-kit"
+    "url": "https://github.com/bergwerk/bwrk_cookie"
   },
   "keywords": [
     "frontend",
@@ -13,10 +13,10 @@
     "js"
   ],
   "author": {
-    "name": "Marvin Hübner <marvin@marvinhuebner.com>"
+    "name": "Georg Dümmler <gd@bergwerk.ag>"
   },
   "license": "MIT",
-  "homepage": "https://github.com/marvinhuebner/src-kit/blob/master/LICENSE",
+  "homepage": "https://github.com/bergwerk/bwrk_cookie/LICENSE",
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
     "babel-plugin-transform-es2015-arrow-functions": "^6.3.13",

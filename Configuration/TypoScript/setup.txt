@@ -17,4 +17,12 @@ plugin.tx_bwrkcookie {
         extensionName = BwrkCookie
         pluginName = Pi1
     }
+
+    settings {
+
+    }
 }
+
+
+page = PAGE
+page.includeCSS.bwrk_cookie = EXT:bwrk_cookie/Resources/Public/css/app.css

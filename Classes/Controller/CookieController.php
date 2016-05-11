@@ -14,7 +14,7 @@ class CookieController extends AbstractController
      */
     public function noticeAction()
     {
-//        DebuggerUtility::var_dump($this);
+
 
 //        $this->view->assign('addresses', $addresses);
     }
