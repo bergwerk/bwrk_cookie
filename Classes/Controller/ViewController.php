@@ -1,7 +1,6 @@
 <?php
 namespace BERGWERK\BwrkCookie\Controller;
 use TYPO3\CMS\Extbase\Mvc\Controller\ActionController;
-use TYPO3\CMS\Extbase\Utility\DebuggerUtility;
 /**
  * Class CookieController
  * @package BERGWERK\BwrkCookie\Controller
