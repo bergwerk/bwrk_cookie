@@ -3,7 +3,7 @@ $(document).ready(function()
     $('.tx-bwrkcookie form').submit(function()
     {
         var cookieValidityDays = $(this).find('input[name="bwrk_cookie_validity_days"]').val();
-        createCookie('bwrk_cookie','accepted', cookieValidityDays);
+        createCookie('bwrk_cookie',true, cookieValidityDays);
         $(this).parents('.tx-bwrkcookie').hide();
         return false;
     });
