@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="it" datatype="plaintext" original="messages" date="2015-12-01T08:36:29Z" product-name="bwrk_cookie">
+        <header/>
+        <body>
+            <trans-unit id="text">
+                <target>Questo sito web utilizza i cookie per facilitare il vostro utilizzo del sito web.</target>
+            </trans-unit>
+            <trans-unit id="text_link">
+                <target>maggiori informazioni</target>
+            </trans-unit>
+            <trans-unit id="text_button">
+                <target>OK</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
