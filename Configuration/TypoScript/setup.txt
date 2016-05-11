@@ -21,6 +21,7 @@ plugin.tx_bwrkcookie {
     settings {
         policyPageUid = 1
         policyLinkTarget = _blank
+        cookieValidityDays = 60
     }
 }
 
