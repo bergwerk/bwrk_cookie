@@ -1,1 +1,1 @@
-{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,eACE,uBACA,WACA,WAAY,CACb","file":"app.css","sourcesContent":[".tx-bwrkcookie {\n  background-color:black;\n  width:100%;\n  height:50px;\n}"],"sourceRoot":"/source/"}
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,eACE,2BACA,WACA,WAAY,CACb","file":"app.css","sourcesContent":[".tx-bwrkcookie {\n  background-color:lightgrey;\n  width:100%;\n  height:50px;\n}"],"sourceRoot":"/source/"}

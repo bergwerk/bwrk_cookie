@@ -29,6 +29,6 @@ var config = [
     output = 'minified',
 
     jsFilesApp = [
-        sourcePath + 'js/map.js'
+        sourcePath + 'js/app.js'
     ]
 ];

@@ -26,3 +26,4 @@ plugin.tx_bwrkcookie {
 
 page = PAGE
 page.includeCSS.bwrk_cookie = EXT:bwrk_cookie/Resources/Public/css/app.css
+page.includeJSFooter.bwrk_cookie = EXT:bwrk_cookie/Resources/Public/js/app.js
