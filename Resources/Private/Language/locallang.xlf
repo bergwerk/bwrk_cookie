@@ -4,10 +4,10 @@
         <header/>
         <body>
             <trans-unit id="text">
-                <source>Diese Website verwendet Cookies um Ihnen die Bereitstellung der Website zu erleichtern.</source>
+                <source>This website uses cookies to facilitate your use of the Website.</source>
             </trans-unit>
             <trans-unit id="text_link">
-                <source>Weitere Informationen</source>
+                <source>more information</source>
             </trans-unit>
             <trans-unit id="text_button">
                 <source>OK</source>

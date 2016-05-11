@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-    <file source-language="de" datatype="plaintext" original="messages" date="2015-12-01T08:36:29Z" product-name="bwrk_cookie">
+    <file source-language="cs" datatype="plaintext" original="messages" date="2015-12-01T08:36:29Z" product-name="bwrk_cookie">
         <header/>
         <body>
             <trans-unit id="text">
-                <target>Diese Website verwendet Cookies um Ihnen die Nutzung der Website zu erleichtern.</target>
+                <target>Tato webová stránka používá cookies ke zjednodušení používání webových stránek.</target>
             </trans-unit>
             <trans-unit id="text_link">
-                <target>Weitere Informationen</target>
+                <target>více informací</target>
             </trans-unit>
             <trans-unit id="text_button">
                 <target>OK</target>
